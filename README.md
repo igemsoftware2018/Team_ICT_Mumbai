@@ -50,11 +50,11 @@ Download the .exe file (v1.3.1) and run! As simple as that.
 
 <h4>Steps to Use</h4>
 Follow these instructions:
-1. Select your Organism/Chassis.
-2. Paste your sequence in box at the top.
-3. Choose if your sequence is a coding sequence or not.
-4. Click BioBrick!
-5. If you wish to take the reverse complement of the sequence and then BioBrick it, click <Reverse Complement and BioBrick>
+ 1. Select your Organism/Chassis.
+ 2. Paste your sequence in box at the top.
+ 3. Choose if your sequence is a coding sequence or not.
+ 4. Click BioBrick!
+ 5. If you wish to take the reverse complement of the sequence and then BioBrick it, click <Reverse Complement and BioBrick>
 If your part contains any illegal restriction enzyme binding sites, two boxes will appear. The box on the left will display the highlighted restriction sites with a legend at the bottom. The box on the right will suggest the new, optimized sequence for selected organism. If you wish to proceed with that sequence, copy and paste it into top box and hit BioBrick.
   
  <h2>MAC Version</h2>
