@@ -58,11 +58,16 @@ If your part contains any illegal restriction enzyme binding sites, two boxes wi
   
  <h2>MAC Version</h2>
  <h4>Convert to correct file type</h4>
- Download the File BBrickIt_India. It is a Unix Executable but appears as a text file when you download it. Follow these steps to convert it to the correct file type.
+ Download the File BBrickIt_India. It is a Unix Executable but appears as a text file when you download it. Follow these steps to convert it to the correct file type:
+ 
  1. Open terminal on your PC.
+ 
  2. Type chmod +x and a space after it.
+ 
  3. Drag your file onto the terminal window near the cursor. Your file path will automatically be copied onto the window.
+ 
  4. Press enter.
+ 
  5. You will see that your text file has been coverted to a unix executable with a change in the icon reflecting the same
  
  <h4>Give the file permission</h4>
