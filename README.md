@@ -44,3 +44,15 @@ The most exciting feature of this application is that it takes into account the 
 chassis organisms. The frequency and efficiency of usage of codons in different organisms are different
 for producing the same amino acid. BBrickIt takes that into account and then suggests a new sequence
 that is optimized for the chassis organism.
+
+<h2>Windows Version</h2>
+Download the .exe file (v1.3.1) and run! As simple as that.
+
+Steps to Use
+1. Select your Organism/Chassis.
+2. Paste your sequence in box at the top.
+3. Choose if your sequence is a coding sequence or not.
+4. Click <BioBrick>!
+5. If you wish to take the reverse complement of the sequence and then BioBrick it, click <Reverse Complement and BioBrick>
+If your part contains any illegal restriction enzyme binding sites, two boxes will appear. The box on the left will display the highlighted restriction sites with a legend at the bottom. The box on the right will suggest the new, optimized sequence for selected organism. If you wish to proceed with that sequence, copy and paste it into top box and hit <BioBrick>
+
