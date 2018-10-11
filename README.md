@@ -2,7 +2,7 @@
 <h1>Hello!</h1>
 <h2>About</h2>
 BBrickIt is a software that BioBricks any DNA sequence for you.
-According to the BioBrick standards, each BioBrick part must have a Prefix and Suffix. [1] In order for a part to be compatible with BioBrick RFC standards, it must not contain the following restriction sites, as these are unique to the prefix and suffix:
+According to the BioBrick standards, each BioBrick part must have a Prefix and Suffix. In order for a part to be compatible with BioBrick RFC standards, it must not contain the following restriction sites, as these are unique to the prefix and suffix:
 
 <table>
 <tr>
@@ -48,8 +48,8 @@ that is optimized for the chassis organism.
 <h2>Windows Version</h2>
 Download the .exe file (v1.3.1) and run! As simple as that.
 
-<h4>Steps to Use</h4>
-Follow these instructions:
+ <h4>Steps to Use</h4>
+ Follow these instructions:
  1. Select your Organism/Chassis.
  2. Paste your sequence in box at the top.
  3. Choose if your sequence is a coding sequence or not.
