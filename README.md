@@ -79,7 +79,7 @@ If your part contains any illegal restriction enzyme binding sites, two boxes wi
 
 Find the comprehensive user manual <a href="http://2018.igem.org/wiki/images/b/be/T--ICT-Mumbai--BBrickIt-User-Manual.pdf">here</a>.
  
- <h3>Source Code</h3>
+ <h2>Source Code</h2>
  This progaram was coded purely using python language. Keeping in spirit with the open-source nature of creations of the iGEM community, we have made the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/master/BBrickIt_test.py">source code</a> freely accesible to all. 
  
  
