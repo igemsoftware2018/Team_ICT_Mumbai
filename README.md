@@ -58,7 +58,7 @@ Find the comprehensive user manual <a href="http://2018.igem.org/wiki/images/b/b
 
 
 <h2>Windows Version</h2>
-Download the .exe file (v1.3.1) and run! As simple as that.
+Download the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/master/BBrickIt_beta%20v1.3.1.exe">.exe file (v1.3.1)</a> and run! As simple as that.
 
  <h2>MAC Version</h2>
  <h4>Convert to correct file type</h4>
@@ -79,3 +79,8 @@ Download the .exe file (v1.3.1) and run! As simple as that.
  4. You should see the program run and display the home screen. :)
  
  The next time you click on it, it should run without any glitches!
+ 
+ <h3>Source Code</h3>
+ This progaram was coded purely using python language. Keeping in spirit with the open-source nature of creations of the iGEM community, we have made the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/master/BBrickIt_test.py">source code</a> freely accesible to all. 
+ 
+ 
