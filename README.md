@@ -44,19 +44,6 @@ chassis organisms. The frequency and efficiency of usage of codons in different 
 for producing the same amino acid. BBrickIt takes that into account and then suggests a new sequence
 that is optimized for the chassis organism.
 
- <h2>Steps to Use</h2>
- Follow these instructions:
- 
- 1. Select your Organism/Chassis.
- 2. Paste your sequence in box at the top.
- 3. Choose if your sequence is a coding sequence or not.
- 4. Click BioBrick!
- 5. If you wish to take the reverse complement of the sequence and then BioBrick it, click <Reverse Complement and BioBrick>
-If your part contains any illegal restriction enzyme binding sites, two boxes will appear. The box on the left will display the highlighted restriction sites with a legend at the bottom. The box on the right will suggest the new, optimized sequence for selected organism. If you wish to proceed with that sequence, copy and paste it into top box and hit BioBrick.
-
-Find the comprehensive user manual <a href="http://2018.igem.org/wiki/images/b/be/T--ICT-Mumbai--BBrickIt-User-Manual.pdf">here</a>.
-
-
 <h2>Windows Version</h2>
 Download the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/master/BBrickIt_beta%20v1.3.1.exe">.exe file (v1.3.1)</a> and run! As simple as that.
 
@@ -79,6 +66,18 @@ Download the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/m
  4. You should see the program run and display the home screen. :)
  
  The next time you click on it, it should run without any glitches!
+ 
+ <h2>Steps to Use</h2>
+ Follow these instructions:
+ 
+ 1. Select your Organism/Chassis.
+ 2. Paste your sequence in box at the top.
+ 3. Choose if your sequence is a coding sequence or not.
+ 4. Click BioBrick!
+ 5. If you wish to take the reverse complement of the sequence and then BioBrick it, click <Reverse Complement and BioBrick>
+If your part contains any illegal restriction enzyme binding sites, two boxes will appear. The box on the left will display the highlighted restriction sites with a legend at the bottom. The box on the right will suggest the new, optimized sequence for selected organism. If you wish to proceed with that sequence, copy and paste it into top box and hit BioBrick.
+
+Find the comprehensive user manual <a href="http://2018.igem.org/wiki/images/b/be/T--ICT-Mumbai--BBrickIt-User-Manual.pdf">here</a>.
  
  <h3>Source Code</h3>
  This progaram was coded purely using python language. Keeping in spirit with the open-source nature of creations of the iGEM community, we have made the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/master/BBrickIt_test.py">source code</a> freely accesible to all. 
