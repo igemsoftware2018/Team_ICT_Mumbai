@@ -55,7 +55,7 @@ Download the <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/m
  2. Type chmod +x and a space after it.
  3. Drag your file onto the terminal window near the cursor. Your file path will automatically be copied onto the window.
  4. Press enter.
- 5. You will see that your text file has been coverted to a unix executable with a change in the icon reflecting the same
+ 5. You will see that your text file has been coverted to a unix executable with a change in the icon reflecting the same.
  
  <h4>Give the file permission</h4>
  After you convert to the unix executable, follow these steps to get it working:
