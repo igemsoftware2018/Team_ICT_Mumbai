@@ -62,7 +62,7 @@ Download the .exe file (v1.3.1) and run! As simple as that.
 
  <h2>MAC Version</h2>
  <h4>Convert to correct file type</h4>
- Download the File BBrickIt_India. It is a Unix Executable but appears as a text file when you download it. Follow these steps to convert it to the correct file type:
+ Download the File <a href="https://github.com/igemsoftware2018/Team_ICT_Mumbai/blob/master/BBrickIt_India">BBrickIt_India</a>. It is a Unix Executable but appears as a text file when you download it. Follow these steps to convert it to the correct file type:
  
  1. Open terminal on your PC.
  2. Type chmod +x and a space after it.
