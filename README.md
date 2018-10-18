@@ -49,6 +49,7 @@ Download the .exe file (v1.3.1) and run! As simple as that.
 
  <h4>Steps to Use</h4>
  Follow these instructions:
+ 
  1. Select your Organism/Chassis.
  2. Paste your sequence in box at the top.
  3. Choose if your sequence is a coding sequence or not.
