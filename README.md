@@ -1,8 +1,9 @@
 # Team_ICT_Mumbai
 <h2>About</h2>
-BBrickIt is a software that BioBricks any DNA sequence for you.
-According to the BioBrick standards, each BioBrick part must have a Prefix and Suffix. In order for a part to be compatible with BioBrick RFC standards, it must not contain the following restriction sites, as these are unique to the prefix and suffix:
+<a href="http://2018.igem.org/Team:ICT-Mumbai/Software">BBrickIt</a> is a software that BioBricks any DNA sequence for you.
+According to the BioBrick standards, each BioBrick part must have a Prefix and Suffix. In order for a part to be compatible with <a href="http://dspace.mit.edu/handle/1721.1/45138">BioBrick RFC 10 standards</a>, it must not contain the following restriction sites, as these are unique to the prefix and suffix:
 
+<h3>Illegal sites</h3>
 <table>
 <tr>
 <th>Sequence</th>
@@ -32,7 +33,6 @@ According to the BioBrick standards, each BioBrick part must have a Prefix and S
 <td>Avoid</td>
 <td>NotI</td>
 </tr>
-<caption> Illegal sites</caption>
 </table>
 
 If the sequence to be contains any of these sites, the program will detect them and they will be
